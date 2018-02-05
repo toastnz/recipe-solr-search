@@ -14,6 +14,9 @@
     "require-dev": {
         "phpunit/phpunit": "^5.7"
     },
+    "suggest": {
+        "silverstripe/textextraction": "Text Extraction API for SilverStripe CMS (mostly used with 'fulltextsearch' module)"
+    },
     "extra": {
         "project-files": [],
         "branch-alias": {

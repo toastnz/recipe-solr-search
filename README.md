@@ -12,6 +12,11 @@ This includes the following core SilverStripe and CWP modules:
  * [symbiote/silverstripe-queuedjobs](https://github.com/symbiote/silverstripe-queuedjobs): A module that provides
    interfaces for scheduling jobs for certain times
 
+You can also opt in to install the following suggested (not required) modules:
+
+ * [silverstripe/textextraction](https://github.com/silverstripe/silverstripe-textextraction): Text Extraction API for
+   SilverStripe CMS (mostly used with 'fulltextsearch' module)
+
 This can be either added to an existing project or used as a project base for creating a basic CWP install.
 
 ## Get started
