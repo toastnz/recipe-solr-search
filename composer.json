@@ -1,0 +1,28 @@
+{
+    "name": "cwp/cwp-recipe-search",
+    "type": "silverstripe-recipe",
+    "description": "CWP CMS requirements recipe",
+    "homepage": "https://www.cwp.govt.nz",
+    "license": "BSD-3-Clause",
+    "require": {
+        "silverstripe/recipe-plugin": "^1",
+        "cwp/cwp-recipe-cms": "2.x-dev",
+        "cwp/cwp-search": "1.x-dev",
+        "silverstripe/fulltextsearch": "3.x-dev",
+        "symbiote/silverstripe-queuedjobs": "4.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "extra": {
+        "project-files": [],
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
+    },
+    "config": {
+        "process-timeout": 600
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}

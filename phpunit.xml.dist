@@ -1,0 +1,8 @@
+<phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
+    <testsuite name="cwp-recipe-search">
+        <directory>vendor/cwp/cwp</directory>
+        <directory>vendor/cwp/cwp-search/tests</directory>
+        <directory>vendor/silverstripe/fulltextsearch/tests</directory>
+        <directory>vendor/symbiote/silverstripe-queuedjobs/tests</directory>
+    </testsuite>
+</phpunit>
