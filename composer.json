@@ -1,7 +1,7 @@
 {
     "name": "cwp/cwp-recipe-search",
     "type": "silverstripe-recipe",
-    "description": "CWP CMS requirements recipe",
+    "description": "CWP search requirements recipe",
     "homepage": "https://www.cwp.govt.nz",
     "license": "BSD-3-Clause",
     "require": {
