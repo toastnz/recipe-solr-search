@@ -7,7 +7,7 @@
     "require": {
         "silverstripe/recipe-plugin": "^1",
         "cwp/cwp-search": "1.1.x-dev",
-        "silverstripe/fulltextsearch": "3.3.x-dev",
+        "silverstripe/fulltextsearch": "3.4.x-dev",
         "symbiote/silverstripe-queuedjobs": "^4.3"
     },
     "require-dev": {
