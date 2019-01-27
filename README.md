@@ -5,8 +5,6 @@
 
 This includes the following core SilverStripe and CWP modules:
 
- * [silverstripe/recipe-cms](https://github.com/silverstripe/recipe-cms): Recipe containing CMS, versioned, asset-admin, etc
- * [cwp/cwp-recipe-cms](https://github.com/silverstripe/cwp-recipe-cms): CWP CMS requirements recipe
  * [cwp/cwp-search](https://github.com/silverstripe/cwp-search): CWP fulltextsearch integration module
  * [silverstripe/fulltextsearch](https://github.com/silverstripe/silverstripe-fulltextsearch): Adds external full text
    search engine support to SilverStripe, specically with Solr in a CWP context
