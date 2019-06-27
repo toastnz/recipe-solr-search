@@ -17,6 +17,9 @@
         "silverstripe/textextraction": "Text Extraction API for SilverStripe CMS (mostly used with 'fulltextsearch' module)"
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        },
         "project-files": []
     },
     "config": {
