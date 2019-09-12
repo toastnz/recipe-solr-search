@@ -6,9 +6,9 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "cwp/cwp-search": "1.2.x-dev",
-        "silverstripe/fulltextsearch": "3.5.x-dev",
-        "symbiote/silverstripe-queuedjobs": "^4.3"
+        "cwp/cwp-search": "1.2.1@stable",
+        "silverstripe/fulltextsearch": "3.5.2@stable",
+        "symbiote/silverstripe-queuedjobs": "4.4.0@stable"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7"
