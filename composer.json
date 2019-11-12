@@ -6,9 +6,9 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "cwp/cwp-search": "1.2.x-dev",
-        "silverstripe/fulltextsearch": "3.5.x-dev",
-        "symbiote/silverstripe-queuedjobs": "^4.3"
+        "cwp/cwp-search": "1.x-dev",
+        "silverstripe/fulltextsearch": "3.x-dev",
+        "symbiote/silverstripe-queuedjobs": "^4"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7"
@@ -17,9 +17,6 @@
         "silverstripe/textextraction": "Text Extraction API for SilverStripe CMS (mostly used with 'fulltextsearch' module)"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        },
         "project-files": []
     },
     "config": {
