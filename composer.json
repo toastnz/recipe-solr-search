@@ -6,8 +6,8 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/recipe-plugin": "^1",
-        "cwp/cwp-search": "1.x-dev",
-        "silverstripe/fulltextsearch": "3.x-dev",
+        "cwp/cwp-search": "1.6.x-dev",
+        "silverstripe/fulltextsearch": "3.7.x-dev",
         "symbiote/silverstripe-queuedjobs": "^4"
     },
     "require-dev": {
