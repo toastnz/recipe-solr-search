@@ -21,6 +21,7 @@ before_script:
 
   - composer validate
   - composer require --no-update cwp/starter-theme:^3
+  # Fix for running phpunit 5 on php 7.4+
   - composer require --no-update sminnee/phpunit-mock-objects:^3
   - composer install --prefer-source --no-interaction --no-progress --no-suggest --optimize-autoloader --verbose --profile
 
