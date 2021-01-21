@@ -1,6 +1,6 @@
 ## CWP search recipe
 
-[![Build Status](https://travis-ci.org/silverstripe/cwp-recipe-search.svg?branch=master)](https://travis-ci.org/silverstripe/cwp-recipe-search)
+[![Build Status](https://api.travis-ci.com/silverstripe/cwp-recipe-search.svg?branch=2)](https://travis-ci.com/silverstripe/cwp-recipe-search)
 [![SilverStripe supported module](https://img.shields.io/badge/silverstripe-supported-0071C4.svg)](https://www.silverstripe.org/software/addons/silverstripe-commercially-supported-module-list/)
 
 This includes the following core SilverStripe and CWP modules:
