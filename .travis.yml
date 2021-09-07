@@ -5,7 +5,7 @@ import:
 
 env:
   global:
-    - REQUIRE_RECIPE="4.9.x-dev"
+    - REQUIRE_RECIPE="4.x-dev"
     - REQUIRE_CWP_STARTER_THEME=^2
 
 # Manually defining jobs matrix instead of using standard-jobs-fixed
