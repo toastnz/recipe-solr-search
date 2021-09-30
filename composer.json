@@ -1,7 +1,7 @@
 {
-    "name": "cwp/cwp-recipe-search",
+    "name": "silverstripe/recipe-solr-search",
     "type": "silverstripe-recipe",
-    "description": "CWP search requirements recipe",
+    "description": "Silverstripe Cloud Platform search requirements recipe",
     "homepage": "https://www.cwp.govt.nz",
     "license": "BSD-3-Clause",
     "require": {
