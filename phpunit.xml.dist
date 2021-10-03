@@ -1,5 +1,5 @@
 <phpunit bootstrap="vendor/silverstripe/cms/tests/bootstrap.php" colors="true">
-    <testsuite name="cwp-recipe-search">
+    <testsuite name="recipe-solr-search">
         <directory>vendor/cwp/cwp</directory>
         <directory>vendor/cwp/cwp-search/tests</directory>
         <directory>vendor/silverstripe/fulltextsearch/tests</directory>
