@@ -6,6 +6,8 @@ import:
 env:
   global:
     - REQUIRE_RECIPE="4.x-dev"
+    # require 2.x-dev of cwp instead of ^2 (in cwp/cwp-search) for phpunit9 compatibility
+    - REQUIRE_EXTRA="cwp/cwp:2.x-dev cwp/cwp-core:2.x-dev"
     - REQUIRE_CWP_STARTER_THEME=^2
 
 # Manually defining jobs matrix instead of using standard-jobs-fixed
@@ -13,7 +15,7 @@ env:
 jobs:
   fast_finish: true
   include:
-    - php: 7.1
+    - php: 7.3
       env:
         - DB=MYSQL
         - REQUIRE_INSTALLER="$REQUIRE_RECIPE"
