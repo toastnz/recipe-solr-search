@@ -5,7 +5,7 @@
     "homepage": "https://silverstripe.org",
     "license": "BSD-3-Clause",
     "require": {
-        "php": "^7.3 || ^8.0",
+        "php": "^7.4 || ^8.0",
         "silverstripe/framework": "^4.10",
         "silverstripe/recipe-plugin": "^1",
         "cwp/cwp-search": "1.6.x-dev",
