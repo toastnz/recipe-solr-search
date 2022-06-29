@@ -7,9 +7,6 @@
     "silverstripe",
     "symbiote"
   ],
-  "upgrade-only": [
-    "symbiote/silverstripe-queuedjobs"
-  ],
   "exclude": [
     "silverstripe/recipe-plugin"
   ]
