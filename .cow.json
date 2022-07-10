@@ -1,5 +1,5 @@
 {
-  "github-slug": "silverstripe/cwp-recipe-search",
+  "github-slug": "silverstripe/recipe-solr-search",
   "child-stability-inherit": true,
   "dependency-constraint": "loose",
   "vendors": [
