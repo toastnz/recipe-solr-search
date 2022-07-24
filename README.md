@@ -1,6 +1,6 @@
 ## Silverstripe Recipe Solr search
 
-[![Build Status](https://api.travis-ci.com/silverstripe/recipe-solr-search.svg?branch=2)](https://travis-ci.com/silverstripe/recipe-solr-search)
+[![CI](https://github.com/silverstripe/recipe-solr-search/actions/workflows/ci.yml/badge.svg)](https://github.com/silverstripe/recipe-solr-search/actions/workflows/ci.yml)
 [![Silverstripe supported module](https://img.shields.io/badge/silverstripe-supported-0071C4.svg)](https://www.silverstripe.org/software/addons/silverstripe-commercially-supported-module-list/)
 
 This Silverstripe CMS Recipe is designed to enable Solr-based fulltext search. It's specifically designed to work with Silverstripe Cloud Platforms, but may be functional in other environments as well. It's the successor of [`cwp/cwp-recipe-search`](https://github.com/silverstripe/cwp-recipe-search).
