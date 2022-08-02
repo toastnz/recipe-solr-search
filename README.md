@@ -16,7 +16,7 @@ This includes the following core Silverstripe modules:
 You can also opt in to install the following suggested (not required) modules:
 
  * [silverstripe/textextraction](https://github.com/silverstripe/silverstripe-textextraction): Text Extraction API for
-   SilverStripe CMS (mostly used with 'fulltextsearch' module)
+   Silverstripe CMS (mostly used with 'fulltextsearch' module)
 
 This can be either added to an existing project or used as a project base for creating a Silverstripe CMS install.
 
