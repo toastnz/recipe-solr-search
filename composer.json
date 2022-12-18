@@ -8,8 +8,8 @@
         "php": "^7.4 || ^8.0",
         "silverstripe/framework": "^4.10",
         "silverstripe/recipe-plugin": "^1",
-        "cwp/cwp-search": "1.7.x-dev",
-        "silverstripe/fulltextsearch": "3.11.x-dev",
+        "cwp/cwp-search": "1.x-dev",
+        "silverstripe/fulltextsearch": "3.x-dev",
         "symbiote/silverstripe-queuedjobs": "^4.9"
     },
     "require-dev": {
