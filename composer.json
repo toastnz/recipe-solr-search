@@ -8,9 +8,9 @@
         "php": "^8.1",
         "silverstripe/framework": "5.x-dev",
         "silverstripe/recipe-plugin": "^2",
-        "cwp/cwp-search": "~2.0.0@beta",
-        "silverstripe/fulltextsearch": "~4.0.0@beta",
-        "symbiote/silverstripe-queuedjobs": "~5.0.0@beta"
+        "cwp/cwp-search": "2.0.x-dev",
+        "silverstripe/fulltextsearch": "4.0.x-dev",
+        "symbiote/silverstripe-queuedjobs": "5.0.x-dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
