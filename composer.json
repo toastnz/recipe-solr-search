@@ -6,11 +6,11 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": "^7.4 || ^8.0",
-        "silverstripe/framework": "~4.13.0@rc",
+        "silverstripe/framework": "4.13.x-dev",
         "silverstripe/recipe-plugin": "^1",
-        "cwp/cwp-search": "~1.8.0@rc",
-        "silverstripe/fulltextsearch": "~3.12.0@rc",
-        "symbiote/silverstripe-queuedjobs": "~4.12.0@rc"
+        "cwp/cwp-search": "1.8.x-dev",
+        "silverstripe/fulltextsearch": "3.12.x-dev",
+        "symbiote/silverstripe-queuedjobs": "4.12.x-dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
