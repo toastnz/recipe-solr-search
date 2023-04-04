@@ -7,7 +7,7 @@
     "require": {
         "php": "^8.1",
         "silverstripe/framework": "5.0.x-dev",
-        "silverstripe/recipe-plugin": "^2",
+        "silverstripe/recipe-plugin": "2.0.x-dev",
         "cwp/cwp-search": "2.0.x-dev",
         "silverstripe/fulltextsearch": "4.0.x-dev",
         "symbiote/silverstripe-queuedjobs": "5.0.x-dev"
