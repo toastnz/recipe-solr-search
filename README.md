@@ -20,12 +20,10 @@ You can also opt in to install the following suggested (not required) modules:
 
 This can be either added to an existing project or used as a project base for creating a Silverstripe CMS install.
 
-## Get started
+## Installation
 
-You can create a project using Composer:
-
-```
-composer create-project silverstripe/recipe-solr-search ./myproject ^2
+```sh
+composer create-project silverstripe/recipe-solr-search ./myproject
 ```
 
 ## Alternative
